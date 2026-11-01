@@ -1,5 +1,5 @@
 # Hi 👋, I'm Salman Sana
-### Developer, BBA Student & Aspiring Entrepreneur from Pakistan 🇵🇰
+### Developer, BBA Student & Aspiring Entrepreneur
 
 I combine business knowledge with technology to build useful digital products. Based in Turbat, Balochistan, I’m interested in web development, AI, and making technology more accessible to local communities.
 
